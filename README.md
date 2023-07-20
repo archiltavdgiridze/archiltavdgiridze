@@ -32,7 +32,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=archiltavdgiridze" alt="archiltavdgiridze" /></a> </p>
 <div align="left"> 
 <h4> Statistics <h4 />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archiltavdgiridze&show_icons=true&locale=en&layout=compact" alt="archiltavdgiridze" /></p> <br /><br /><br /><br /><br /><br /><br /><br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=archiltavdgiridze&show_icons=true&locale=en&layout=compact" alt="archiltavdgiridze" /></p> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=archiltavdgiridze&show_icons=true&locale=en" alt="archiltavdgiridze" /></p>
 
