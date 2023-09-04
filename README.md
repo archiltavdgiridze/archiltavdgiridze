@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archiltavdgiridze&label=Profile%20views&color=0e75b6&style=flat" alt="archiltavdgiridze" /> </p>
 
-- 🔭 I’m currently working on [Tsitatelli](https://github.com/archiltavdgiridze/tsitatelli)
+- 🔭 I’m currently working on [Mafia App](https://github.com/archiltavdgiridze/mafia)
+- 🔙 My last big project was [Tsitatelli](https://github.com/archiltavdgiridze/tsitatelli)
 - 🌱 I’m currently learning **React**
 - 👨‍💻 All of my projects are available at [https://github.com/archiltavdgiridze](https://github.com/archiltavdgiridze)
 - 📫 How to reach me **achitavdgiridze@gmail.com**
